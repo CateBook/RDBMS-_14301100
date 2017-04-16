@@ -1,4 +1,3 @@
-symbol,group,family,duration,growth_habit,native_status
 ABAM,Gymnosperm,Pinaceae,Perennial,Tree,AK N; CAN N; L48 N
 ABBA,Gymnosperm,Pinaceae,Perennial,Tree,CAN N; L48 N; SPM N
 ABCO,Gymnosperm,Pinaceae,Perennial,Tree,L48 N
@@ -19,7 +18,7 @@ ACNE2,Dicot,Aceraceae,Perennial,Tree,CAN N; L48 N
 ACRU,Dicot,Aceraceae,Perennial,Tree,CAN N; L48 N
 ACSA2,Dicot,Aceraceae,Perennial,Tree,CAN N; L48 N
 ACSA3,Dicot,Aceraceae,Perennial,Shrub; Tree,CAN N; L48 N
-ACMI2,Dicot,Asteraceae,Perennial,Forb/herb,AK N; CAN I,N; GL N; HI I; L48 I,N; SPM I,N
+ACMI2,Dicot,Asteraceae,Perennial,Forb/herb,AK N; CAN I N; GL N; HI I; L48 I N; SPM I N
 ACMIO,Dicot,Asteraceae,Perennial,Forb/herb,AK N; CAN N; GL N; L48 N; SPM N
 ACHY,Monocot,Poaceae,Perennial,Graminoid,CAN N; L48 N
 ACLE8,Monocot,Poaceae,Perennial,Graminoid,CAN N; L48 N
@@ -97,7 +96,7 @@ ARCAC,Dicot,Asteraceae,Biennial; Perennial,Forb/herb,CAN N; GL N; L48 N
 ARDO3,Dicot,Asteraceae,Perennial,Forb/herb,L48 N
 ARDR4,Dicot,Asteraceae,Perennial,Forb/herb; Subshrub,AK I?; CAN N; L48 N
 ARFR4,Dicot,Asteraceae,Perennial,Subshrub,AK N; CAN N; L48 N
-ARLU,Dicot,Asteraceae,Perennial,Forb/herb; Subshrub,CAN N; L48 I,N
+ARLU,Dicot,Asteraceae,Perennial,Forb/herb; Subshrub,CAN N; L48 I N
 ARNO4,Dicot,Asteraceae,Perennial,Shrub; Subshrub,L48 N
 ARTR2,Dicot,Asteraceae,Perennial,Shrub; Tree,CAN N; L48 N
 ARTRP2,Dicot,Asteraceae,Perennial,Shrub,L48 N
@@ -107,8 +106,8 @@ ARTRV,Dicot,Asteraceae,Perennial,Shrub; Tree,CAN N; L48 N
 ARTRW8,Dicot,Asteraceae,Perennial,Shrub; Tree,L48 N
 ARTRX,Dicot,Asteraceae,Perennial,Shrub; Tree,L48 N
 ARGI,Monocot,Poaceae,Perennial,Graminoid; Shrub; Subshrub,L48 N
-ARTE4,Monocot,Poaceae,Perennial,Graminoid; Shrub; Subshrub,L48 I,N
-ARTE4,Monocot,Poaceae,Perennial,Graminoid; Shrub; Subshrub,L48 I,N
+ARTE4,Monocot,Poaceae,Perennial,Graminoid; Shrub; Subshrub,L48 I N
+ARTE4,Monocot,Poaceae,Perennial,Graminoid; Shrub; Subshrub,L48 I N
 ASCA,Dicot,Aristolochiaceae,Perennial,Forb/herb,CAN N; L48 N
 ASCO,Dicot,Asclepiadaceae,Perennial,Forb/herb,L48 N
 ASFA,Dicot,Asclepiadaceae,Perennial,Forb/herb,L48 N
@@ -159,8 +158,8 @@ BEPA,Dicot,Betulaceae,Perennial,Tree,AK N; CAN N; L48 N; SPM N
 BEPO,Dicot,Betulaceae,Perennial,Tree,CAN N; L48 N
 BIAR,Dicot,Asteraceae,Annual; Biennial,Forb/herb,CAN I; L48 N
 BICA,Dicot,Bignoniaceae,Perennial,Vine,L48 N
-BOMA7,Monocot,Cyperaceae,Perennial,Graminoid,AK N; CAN I,N; HI N; L48 N,N?; SPM I,N
-BOMA7,Monocot,Cyperaceae,Perennial,Graminoid,AK N; CAN I,N; HI N; L48 N,N?; SPM I,N
+BOMA7,Monocot,Cyperaceae,Perennial,Graminoid,AK N; CAN I N; HI N; L48 N N?; SPM I N
+BOMA7,Monocot,Cyperaceae,Perennial,Graminoid,AK N; CAN I N; HI N; L48 N N?; SPM I N
 BORO5,Monocot,Cyperaceae,Perennial,Graminoid,L48 N
 BORO5,Monocot,Cyperaceae,Perennial,Graminoid,L48 N
 BOHI,Fern,Pteridaceae,Perennial,Forb/herb,L48 N
@@ -182,7 +181,7 @@ BRAR5,Monocot,Poaceae,Annual,Graminoid,CAN I; L48 I
 BRBI2,Monocot,Poaceae,&nbsp;,Graminoid,None
 BRCA5,Monocot,Poaceae,Annual; Perennial,Graminoid,AK I; CAN N; L48 N
 BRHOH,Monocot,Poaceae,Annual,Graminoid,AK I; CAN I; GL I; HI I; L48 I; SPM I
-BRIN2,Monocot,Poaceae,Perennial,Graminoid,AK I,N; CAN I,N; GL I; L48 I,N; SPM I,N
+BRIN2,Monocot,Poaceae,Perennial,Graminoid,AK I N; CAN I N; GL I; L48 I N; SPM I N
 BRMA4,Monocot,Poaceae,Perennial,Graminoid,AK I?; CAN N; L48 N
 BRTE,Monocot,Poaceae,Annual,Graminoid,AK I; CAN I; GL I; HI I; L48 I
 BRVU,Monocot,Poaceae,Perennial,Graminoid,CAN N; L48 N
@@ -200,7 +199,7 @@ CAVE3,Monocot,Liliaceae,Perennial,Forb/herb,L48 N
 CASE12,Dicot,Onagraceae,Perennial,Forb/herb; Subshrub,CAN N; L48 N
 CAQUB2,Monocot,Liliaceae,Perennial,Forb/herb,L48 N
 CAQUQ,Monocot,Liliaceae,Perennial,Forb/herb,CAN N; L48 N
-CASA2,Dicot,Brassicaceae,Annual; Biennial,Forb/herb,AK I; CAN I,W; L48 I
+CASA2,Dicot,Brassicaceae,Annual; Biennial,Forb/herb,AK I; CAN I W; L48 I
 CARA2,Dicot,Bignoniaceae,Perennial,Vine,CAN N; L48 N
 CAEN4,Dicot,Fabaceae,Annual; Perennial,Forb/herb; Vine,L48 I; PR I; VI I
 CAAR18,Dicot,Fabaceae,Perennial,Shrub; Tree,AK I; CAN I; L48 I
@@ -249,7 +248,7 @@ CHPO3,Monocot,Liliaceae,Perennial,Forb/herb,L48 N
 CHJU,Dicot,Asteraceae,Perennial,Forb/herb,CAN I; L48 I
 CHVI8,Dicot,Asteraceae,Perennial,Shrub,CAN N; L48 N
 CIDI,Dicot,Asteraceae,Biennial; Perennial,Forb/herb,CAN N; L48 N
-CLAM,Dicot,Onagraceae,Annual,Forb/herb,CAN I,N; L48 N
+CLAM,Dicot,Onagraceae,Annual,Forb/herb,CAN I N; L48 N
 CLFR,Dicot,Ranunculaceae,Perennial,Forb/herb; Subshrub,L48 N
 CLLI2,Dicot,Ranunculaceae,Perennial,Vine,CAN N; L48 N
 CLIS,Dicot,Capparaceae,Perennial,Shrub; Subshrub,L48 N
@@ -392,7 +391,7 @@ EUBU5,Dicot,Celastraceae,Perennial,Shrub; Tree,L48 I
 EUPE3,Dicot,Asteraceae,Perennial,Forb/herb,CAN N; L48 N
 EUES,Dicot,Euphorbiaceae,Perennial,Forb/herb,CAN I; L48 I
 EUGL5,Monocot,Poaceae,Perennial,Graminoid,L48 N
-EUGR5,Dicot,Asteraceae,Perennial,Forb/herb,CAN N; L48 N; SPM I,N
+EUGR5,Dicot,Asteraceae,Perennial,Forb/herb,CAN N; L48 N; SPM I N
 EUPE10,Dicot,Brassicaceae,Perennial,Forb/herb,L48 N
 EUFI14,Dicot,Asteraceae,Perennial,Forb/herb,CAN N; L48 N
 EUFI14,Dicot,Asteraceae,Perennial,Forb/herb,CAN N; L48 N
@@ -402,18 +401,18 @@ EYTE,Dicot,Fabaceae,Perennial,Shrub; Tree,L48 N
 FAES2,Dicot,Polygonaceae,Annual,Forb/herb,AK I; CAN I; L48 I
 FEAM5,Monocot,Poaceae,Perennial,Graminoid,L48 N
 FEAR2,Monocot,Poaceae,Perennial,Graminoid,L48 N
-FEBR7,Monocot,Poaceae,Perennial,Graminoid,CAN I; L48 I
-FEBR7,Monocot,Poaceae,Perennial,Graminoid,CAN I; L48 I
+7-Feb,Monocot,Poaceae,Perennial,Graminoid,CAN I; L48 I
+7-Feb,Monocot,Poaceae,Perennial,Graminoid,CAN I; L48 I
 FECA,Monocot,Poaceae,Perennial,Graminoid,L48 N
 FECA4,Monocot,Poaceae,Perennial,Graminoid,CAN N; L48 N
 FEID,Monocot,Poaceae,Perennial,Graminoid,CAN N; L48 N
 FEIDR2,Monocot,Poaceae,Perennial,Graminoid,CAN N; L48 N
 FEIDR2,Monocot,Poaceae,Perennial,Graminoid,CAN N; L48 N
 FEOV,Monocot,Poaceae,Perennial,Graminoid,L48 I
-FERU2,Monocot,Poaceae,Perennial,Graminoid,AK I,N; CAN I,N; GL I,N; HI I; L48 I,N; SPM N
+FERU2,Monocot,Poaceae,Perennial,Graminoid,AK I N; CAN I N; GL I N; HI I; L48 I N; SPM N
 FERUA3,Monocot,Poaceae,Perennial,Graminoid,CAN I; L48 N
 FOPU2,Dicot,Oleaceae,Perennial,Shrub,L48 N
-FRCH,Dicot,Rosaceae,Perennial,Forb/herb,AK I; CAN N; HI N; L48 I,N
+FRCH,Dicot,Rosaceae,Perennial,Forb/herb,AK I; CAN N; HI N; L48 I N
 FRCHC,Dicot,Rosaceae,Perennial,Forb/herb,None
 FRCHL,Dicot,Rosaceae,Perennial,Forb/herb,CAN N; L48 I
 FRCHP,Dicot,Rosaceae,Perennial,Forb/herb,AK I; CAN N; L48 N
@@ -584,7 +583,7 @@ MAGR3,Dicot,Asteraceae,Annual,Forb/herb,CAN N; L48 N
 MASA,Dicot,Asteraceae,Annual,Forb/herb,AK N; CAN I; HI I; L48 N
 MAGR4,Dicot,Magnoliaceae,Perennial,Tree,L48 N; PR I
 MAVI2,Dicot,Magnoliaceae,Perennial,Shrub; Tree,L48 N
-MALUS,Dicot,Rosaceae,&nbsp;,&nbsp;,AK N; CAN I,N; L48 I,N; SPM I
+MALUS,Dicot,Rosaceae,&nbsp;,&nbsp;,AK N; CAN I N; L48 I N; SPM I
 MAAN3,Dicot,Rosaceae,Perennial,Shrub; Tree,L48 N
 MAMA37,Dicot,Rosaceae,Perennial,&nbsp;,None
 MAIN3,Dicot,Anacardiaceae,Perennial,Tree,HI I; L48 I; PB I; PR I; VI I
@@ -663,7 +662,7 @@ PADE24,Monocot,Poaceae,Perennial,Graminoid,L48 N
 PADE24,Monocot,Poaceae,Perennial,Graminoid,L48 N
 PADI6,Monocot,Poaceae,Perennial,Graminoid,HI I; L48 N; PB I; PR N; VI N
 PAFL4,Monocot,Poaceae,Perennial,Graminoid,L48 N
-PANO2,Monocot,Poaceae,Perennial,Graminoid,HI I; L48 I,N; PR N; VI N
+PANO2,Monocot,Poaceae,Perennial,Graminoid,HI I; L48 I N; PR N; VI N
 PAPL3,Monocot,Poaceae,Perennial,Graminoid,L48 N; PR N; VI N
 PASE5,Monocot,Poaceae,Perennial,Graminoid,CAN N; L48 N; PB I; PR N
 PAVA,Monocot,Poaceae,Perennial,Graminoid,HI I; L48 N; PB N; PR N; VI N
@@ -674,7 +673,7 @@ PESI4,Dicot,Cactaceae,Perennial,Subshrub,L48 N
 PEWI2,Dicot,Cactaceae,Perennial,Shrub,L48 N
 PEVI,Monocot,Araceae,Perennial,Forb/herb,CAN N; L48 N
 PEGL2,Monocot,Poaceae,Annual; Perennial,Graminoid,L48 I; PB I; PR I
-PENST,Dicot,Scrophulariaceae,&nbsp;,&nbsp;,AK N; CAN I,N; L48 N
+PENST,Dicot,Scrophulariaceae,&nbsp;,&nbsp;,AK N; CAN I N; L48 N
 PEAC,Dicot,Scrophulariaceae,Perennial,Forb/herb,L48 N
 PEAN4,Dicot,Scrophulariaceae,Perennial,Forb/herb; Subshrub,L48 N
 PEAT3,Dicot,Scrophulariaceae,Perennial,Forb/herb; Subshrub,L48 N
@@ -708,7 +707,7 @@ PHAQ,Monocot,Poaceae,Perennial,Graminoid,HI I; L48 I
 PHAR3,Monocot,Poaceae,Perennial,Graminoid,AK I; CAN N; L48 N; SPM I
 PHLE4,Dicot,Hydrangeaceae,Perennial,Shrub,CAN N; L48 N
 PHPR3,Monocot,Poaceae,Perennial,Graminoid,AK I; CAN I; GL I; HI I; L48 I; SPM I
-PHAU7,Monocot,Poaceae,Perennial,Graminoid; Shrub; Subshrub,CAN I,N; HI I; L48 I,N; PR N?
+PHAU7,Monocot,Poaceae,Perennial,Graminoid; Shrub; Subshrub,CAN I N; HI I; L48 I N; PR N
 PHCA11,Dicot,Rosaceae,Perennial,Shrub,AK N; CAN N; L48 N
 PHOP,Dicot,Rosaceae,Perennial,Shrub,CAN N; L48 N
 PHOPI,Dicot,Rosaceae,Perennial,Shrub,CAN N; L48 N
@@ -746,7 +745,7 @@ POAR,Monocot,Poaceae,Perennial,Graminoid,L48 N
 POBU,Monocot,Poaceae,Perennial,Graminoid,L48 I
 POCO,Monocot,Poaceae,Perennial,Graminoid,AK I; CAN I; HI I; L48 I; SPM I
 POFE,Monocot,Poaceae,Perennial,Graminoid,CAN N; L48 N
-POPR,Monocot,Poaceae,Perennial,Graminoid,AK I,N; CAN I,N; GL I,N; HI I; L48 I,N; PR I; SPM I
+POPR,Monocot,Poaceae,Perennial,Graminoid,AK I N; CAN I N; CAN I N; GL I N; HI I; L48 I N; PR I; SPM I 
 POSE,Monocot,Poaceae,Perennial,Graminoid,AK N; CAN N; L48 N
 POSE,Monocot,Poaceae,Perennial,Graminoid,AK N; CAN N; L48 N
 PODOR,Dicot,Capparaceae,Annual,Forb/herb,L48 N
@@ -781,7 +780,7 @@ PRSEE,Dicot,Rosaceae,Perennial,Shrub; Tree,L48 N
 PRSER2,Dicot,Rosaceae,Perennial,Shrub; Tree,L48 N
 PRSES,Dicot,Rosaceae,Perennial,Shrub; Tree,CAN N; L48 N
 PRSEV,Dicot,Rosaceae,Perennial,Shrub; Tree,L48 N
-PRVI,Dicot,Rosaceae,Perennial,Shrub; Tree,AK I,N; CAN N; L48 N; SPM N
+PRVI,Dicot,Rosaceae,Perennial,Shrub; Tree,AK I N; CAN N; L48 N; SPM N
 PRVID,Dicot,Rosaceae,Perennial,Shrub; Tree,CAN N; L48 N
 PRVIM,Dicot,Rosaceae,Perennial,Shrub; Tree,AK N; CAN N; L48 N
 PSJU3,Monocot,Poaceae,Perennial,Graminoid,AK I; CAN I; L48 I
@@ -811,7 +810,7 @@ QURU,Dicot,Fagaceae,Perennial,Tree,CAN N; L48 N
 QUSH,Dicot,Fagaceae,Perennial,Shrub; Tree,CAN N; L48 N
 QUVI,Dicot,Fagaceae,Perennial,Tree,L48 N
 QUWI2,Dicot,Fagaceae,Perennial,Shrub; Tree,L48 N
-RAAC3,Dicot,Ranunculaceae,Perennial,Forb/herb,AK I; CAN I; GL N?; L48 I,N; SPM I
+RAAC3,Dicot,Ranunculaceae,Perennial,Forb/herb,AK I; CAN I; GL N?; L48 I N; SPM I
 RAAE,Dicot,Ranunculaceae,Perennial,Forb/herb,L48 N
 RAOC,Dicot,Ranunculaceae,Perennial,Forb/herb,AK N; CAN N; L48 N
 RASA2,Dicot,Brassicaceae,Annual; Biennial,Forb/herb,AK I; CAN I; GL I; HI I; L48 I; PB I; PR I
@@ -835,7 +834,7 @@ RHTRT,Dicot,Anacardiaceae,Perennial,Shrub,CAN N; L48 N
 RHTY,Dicot,Anacardiaceae,Perennial,Shrub; Tree,CAN N; L48 N
 RHTY,Dicot,Anacardiaceae,Perennial,Shrub; Tree,CAN N; L48 N
 RIAM2,Dicot,Grossulariaceae,Perennial,Shrub,CAN N; L48 N
-RIAU,Dicot,Grossulariaceae,Perennial,Shrub,CAN I,N; L48 N
+RIAU,Dicot,Grossulariaceae,Perennial,Shrub,CAN I N; L48 N
 RIAUA,Dicot,Grossulariaceae,Perennial,Shrub,CAN N; L48 N
 RIAUG,Dicot,Grossulariaceae,Perennial,Shrub,L48 N
 RIAUV,Dicot,Grossulariaceae,Perennial,Shrub,CAN I; L48 N
@@ -857,7 +856,7 @@ ROWOG2,Dicot,Rosaceae,Perennial,Subshrub,L48 N
 ROWOU,Dicot,Rosaceae,Perennial,Subshrub,CAN N; L48 N
 ROWOW,Dicot,Rosaceae,Perennial,Subshrub,AK N; CAN N; L48 N
 RUAR9,Dicot,Rosaceae,Perennial,Subshrub,CAN I; HI I; L48 I
-RUID,Dicot,Rosaceae,Perennial,Subshrub,AK I,N; CAN I,N; L48 I,N; SPM N
+RUID,Dicot,Rosaceae,Perennial,Subshrub,AK I N; CAN I N; L48 I N; SPM N
 RUSP,Dicot,Rosaceae,Perennial,Subshrub; Vine,AK N; CAN N; L48 N
 RUHI2,Dicot,Asteraceae,Annual; Biennial; Perennial,Forb/herb,AK I; CAN N; L48 N
 SAMI8,Monocot,Arecaceae,Perennial,Shrub; Tree,L48 N
@@ -946,7 +945,7 @@ SONE,Dicot,Asteraceae,Perennial,Forb/herb,CAN N; L48 N
 SOSE,Dicot,Asteraceae,Perennial,Forb/herb,CAN N; L48 N; PR I
 SONU2,Monocot,Poaceae,Perennial,Graminoid,CAN N; L48 N
 SOSE5,Monocot,Poaceae,Perennial,Graminoid,L48 N
-SOBI2,Monocot,Poaceae,Annual,Graminoid,CAN I,W; HI I; L48 I; PB I; PR I; VI I
+SOBI2,Monocot,Poaceae,Annual,Graminoid,CAN I W; HI I; L48 I; PB I; PR I; VI I
 SPAM,Monocot,Sparganiaceae,Perennial,Forb/herb,CAN N; L48 N; SPM N
 SPAN,Monocot,Sparganiaceae,Perennial,Forb/herb,CAN N; L48 N
 SPAN2,Monocot,Sparganiaceae,Perennial,Forb/herb,AK N; CAN N; GL N; L48 N; SPM N
@@ -1005,7 +1004,7 @@ THIN6,Monocot,Poaceae,Perennial,Graminoid,CAN I; L48 I
 THPO7,Monocot,Poaceae,Perennial,Graminoid,CAN I; L48 I
 THOC2,Gymnosperm,Cupressaceae,Perennial,Tree,CAN N; L48 N
 THPL,Gymnosperm,Cupressaceae,Perennial,Tree,AK N; CAN N; L48 N
-TIAM,Dicot,Tiliaceae,Perennial,Tree,CAN I,N; L48 N
+TIAM,Dicot,Tiliaceae,Perennial,Tree,CAN I N; L48 N
 TIAMA,Dicot,Tiliaceae,Perennial,Tree,CAN N; L48 N
 TIAMC,Dicot,Tiliaceae,Perennial,Tree,L48 N
 TIAMH,Dicot,Tiliaceae,Perennial,Tree,CAN I; L48 N
@@ -1038,7 +1037,7 @@ TRIX,Monocot,Liliaceae,Perennial,Forb/herb,L48 N
 TRLA16,Monocot,Liliaceae,Perennial,Forb/herb,L48 N
 TSCA,Gymnosperm,Pinaceae,Perennial,Tree,CAN N; L48 N
 TSHE,Gymnosperm,Pinaceae,Perennial,Tree,AK N; CAN N; L48 N
-TYAN,Monocot,Typhaceae,Perennial,Forb/herb,CAN N; L48 I,N
+TYAN,Monocot,Typhaceae,Perennial,Forb/herb,CAN N; L48 I N
 TYDO,Monocot,Typhaceae,Perennial,Forb/herb,HI I; L48 N; PR N; VI N
 TYLA,Monocot,Typhaceae,Perennial,Forb/herb,AK N; CAN N; HI I; L48 N
 ULPA,Dicot,Ulmaceae,Perennial,Tree,CAN I; L48 I
